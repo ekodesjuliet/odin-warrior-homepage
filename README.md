@@ -4,7 +4,7 @@
 
 **Odin Warrior Homepage** is a responsive homepage built for the **Advanced HTML and CSS** course from **The Odin Project**. The project’s goal is to practice responsive design, with a focus on *adaptive images* and *CSS media queries* to ensure the layout adjusts smoothly across different screen sizes.
 
-[Odin Warrior Homepage](https://krig6.github.io/odin-warrior-homepage/) - Every warrior needs a homepage!
+[Odin Warrior Homepage](https://ekodesjuliet.github.io/odin-warrior-homepage/) - Every warrior needs a homepage!
 
 ## Screenshots
 
